@@ -1,0 +1,31 @@
+body {
+    background-color: #0e2426;
+    color: #fff;
+}
+
+#splash {
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+#logo {
+    font-family: 'Neuton', serif;
+    font-size: 400%;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+}
+
+a {
+    color: #56e8c4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
